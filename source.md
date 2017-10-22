@@ -1,11 +1,11 @@
-class: center, middle
+﻿class: center, middle
 
-# 讲义题目
+# 昨天今天明天
 
 &nbsp;
 &nbsp;
 
-#### 作者姓名 (author@email.com)  
+#### 余佳黛 (1700011736@email.com)  
 
 主页: https://github.com/author
 
@@ -13,19 +13,19 @@ class: center, middle
 
 ## 本讲内容
 
-### <font color="orangered">1. 第一部分</font>
+### <font color="orangered">1. 昨天</font>
 
-#### &nbsp; &nbsp; 1.1 如何学习
-#### &nbsp; &nbsp; 1.2 好好学习
-#### &nbsp; &nbsp; 1.3 好好学习
+#### &nbsp; &nbsp; 1.1 昨天是21号
+#### &nbsp; &nbsp; 1.2 昨天是周六
+#### &nbsp; &nbsp; 1.3 昨天有24个小时
 
-### 2. 第二部分
+### 2. 今天
 
-### 3. 第三部分
+### 3. 明天
 
 ---
 
-## 第一部分
+## 昨天
 
 ```c
 int main()
