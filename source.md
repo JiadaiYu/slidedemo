@@ -1,6 +1,6 @@
 ﻿class: center, middle
 
-# 昨天今天明天
+# 自我介绍
 
 &nbsp;
 &nbsp;
@@ -13,35 +13,27 @@
 
 ## 本讲内容
 
-### <font color="orangered">1. 昨天</font>
+### <font color="orangered">1. 生日</font>
 
-#### &nbsp; &nbsp; 1.1 昨天是21号
-#### &nbsp; &nbsp; 1.2 昨天是周六
-#### &nbsp; &nbsp; 1.3 昨天有24个小时
+#### &nbsp; &nbsp; 1.1 1999年
+#### &nbsp; &nbsp; 1.2 5月
+#### &nbsp; &nbsp; 1.3 23日
 
-### 2. 今天
+### 2. 来自浙江省杭州市桐庐县
 
-### 3. 明天
-
+### 3. 现在就读于北大化院
 ---
 
-## 昨天
+## 生日
 
-```c
-int main()
-{
-  printf("Hello world\n");
-  return 0 ;
-}
+```今年刚成年
 ```
 
 ---
 
-## 插图
+## 照片
 
-** Ada Lovelace **
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Ada_Lovelace_color.svg" width=300 style="margin: 0px 80px">
+** Diana Yu ：）**
 
 ---
 
